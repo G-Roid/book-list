@@ -6,6 +6,6 @@ The information recieved from the API is filtered and displayed. Additinally, th
 I included a local storage feature to allow the reading list to be saved
 
 Demo:
-Live Site: [https://g-roid.github.io/dnd-spells/](https://g-roid.github.io/book-list/)
+Live Site: [https://g-roid.github.io/book-list/]
 
 ![alt tag](https://g-roid.github.io/book-list/img/book.jpg)
